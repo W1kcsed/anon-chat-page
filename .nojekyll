@@ -1,0 +1,2 @@
+# This file tells GitHub Pages not to use Jekyll
+# Our Vite/React app will be deployed via GitHub Actions
